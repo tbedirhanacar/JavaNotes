@@ -21,12 +21,9 @@ public class Courses {
 		return Season;
 	}
 
-	public void setSeason(String season) {
-		Season = season;
-	}
+	public void setSeason(String season) {Season = season;}
 
-	public String getCourseName() {
-		return courseName;
+	public String getCourseName() {return courseName;
 	}
 
 	public void setCourseName(String courseName) {

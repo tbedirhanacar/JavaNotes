@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ea54176-ce25-49f9-b90d-92c461368012" name="Changes" comment="" />
+    <list default="true" id="2ea54176-ce25-49f9-b90d-92c461368012" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lambda_functional_programming/Courses.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lambda_functional_programming/Courses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda_functional_programming/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda_functional_programming/Courses.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -33,16 +41,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.StringEndingMatchesSecondString">
-    <configuration name="FindTheBomb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewquestions.FindTheBomb" />
+  <component name="RunManager" selected="Application.HauntedRooms">
+    <configuration name="AlmostIncreasing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestions.AlmostIncreasing" />
       <module name="fall21eng" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfBoomerangs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewquestions.NumberOfBoomerangs" />
+    <configuration name="AvgWaitingTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestions.AvgWaitingTime" />
       <module name="fall21eng" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SevenBoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewquestions.SevenBoom" />
+    <configuration name="HauntedRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestions.HauntedRooms" />
       <module name="fall21eng" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewquestions.ShuffleName" />
+    <configuration name="ShapeArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestions.ShapeArea" />
       <module name="fall21eng" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEndingMatchesSecondString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewquestions.StringEndingMatchesSecondString" />
+    <configuration name="Statues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewquestions.Statues" />
       <module name="fall21eng" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringEndingMatchesSecondString" />
-        <item itemvalue="Application.FindTheBomb" />
-        <item itemvalue="Application.ShuffleName" />
-        <item itemvalue="Application.NumberOfBoomerangs" />
-        <item itemvalue="Application.SevenBoom" />
+        <item itemvalue="Application.HauntedRooms" />
+        <item itemvalue="Application.AlmostIncreasing" />
+        <item itemvalue="Application.Statues" />
+        <item itemvalue="Application.ShapeArea" />
+        <item itemvalue="Application.AvgWaitingTime" />
       </list>
     </recent_temporary>
   </component>
@@ -126,5 +135,16 @@
       <updated>1640983183892</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
